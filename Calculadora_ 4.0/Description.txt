@@ -1,0 +1,10 @@
+PRIMER PROYECTO:
+ -Calculadora 4.0
+
+- Este es el primer proyecto subido a GitHub, se preguntaran porque no calculadra 2.0 o 3.0 , simple 
+  es porque ya los he hecho pero no van al caso subirlos.
+
+- Espero seguir subiendo codigo veridico para que les ayude a muchas personas.
+
+- Gracias , bye bye :).
+
