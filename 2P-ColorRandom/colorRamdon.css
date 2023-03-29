@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+h2{
+	font-size: 70px;
+	background: linear-gradient(173deg, rgba(186,218,86,1) 30%, rgba(100,186,56,1) 75%);
+    -webkit-background-clip: text;
+    color: transparent;  
+  	padding-bottom: 20px;
+}
+.text{
+	color: #777;
+	display: block;
+	text-align: center;
+	font-size: 23px;
+	border: none;
+	outline: none;
+	width: 70%;
+	height: 30px;
+	margin: 10px auto;
+	background-color: #fff;
+	border-radius: 5px;
+}
+.submit{
+	display: block;
+	margin: 20px auto;
+	padding: 6px 20px;
+	background: linear-gradient(173deg, rgba(86,218,139,1) 15%, rgba(100,186,56,1) 75%);
+	border: none;
+	border-radius: 10px; 
+	cursor: pointer;
+	font-weight: bold;
+}
