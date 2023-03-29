@@ -1,0 +1,4 @@
+Description:
+ - Segundo mini-proyecto pero poco a poco se mejorara a un punto maximo :)
+Fecha: 29/03/2023
+ - Creando el esquema de coloresRandom sin cambios por el momento.
