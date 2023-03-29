@@ -1,0 +1,5 @@
+Descripcion:
+ Una galeria en donde extraemos unas cuantas fotos y los mostramos en la paginaWEB con FileReader
+
+Fecha:29/03/2023 
+- Creacion del archivo , sin cambios.
