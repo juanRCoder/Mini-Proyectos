@@ -1,0 +1,5 @@
+Descripcion:
+ Otro pequeño ejercicio de C, practicando poco a poco.
+
+Fecha:10/04/2023 
+- Creacion del archivo , sin cambios.
