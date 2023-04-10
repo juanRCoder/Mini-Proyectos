@@ -1,5 +1,0 @@
-Descripcion:
- Mi primer proyecto en C, un nuevo lenguaje que estoy aprendiendo recien.
-
-Fecha:08/04/2023 
-- Creacion del archivo , sin cambios.
