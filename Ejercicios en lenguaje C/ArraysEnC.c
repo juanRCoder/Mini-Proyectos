@@ -9,7 +9,7 @@ int main() {
     scanf("%d",&tamaño);
     int array[tamaño];
     int i;
-    printf("Ingrese %d elementos al array:\n", tamaño
+    printf("Ingrese %d elementos al array:\n", tamaño);
            
     //PEDIR ELEMENTOS PARA EL ARRAY;    
         for(i = 0; i < tamaño; i++){
