@@ -3,20 +3,25 @@
 
 int main() {
     int tamaño;
-    printf("tamaño del array\n"); //text1
-    scanf("%d",&tamaño);    // escribe la cantidad de elementos que tendra
-    int array[tamaño]; //declaro el array con la cantidad exacta
     
-    //ingresa cada elemento a cada posicion del array especifico
-    for(int i = 0; i < tamaño; i++){
-        printf("Ingresa el elemento %d:\n",i+1); //menciona a cada elemento
-        scanf("%d",&array[i]); // agrego un elemento en cada posicion designada
-    }
-    //mostrar los elementos
-    printf("Los valores del array son:\n");
-    for(int i = 0; i < tamaño; i++){
-        printf("%d - ",array[i]);
-    }
-    printf("\nFIN!.");
+    //ESCOGER EL TAMAÑO DEL ARRAY
+    printf("Ingrese el tamaño del array:\n ");
+    scanf("%d",&tamaño);
+    int array[tamaño];
+    int i;
+    printf("Ingrese %d elementos al array:\n", tamaño
+           
+    //PEDIR ELEMENTOS PARA EL ARRAY;    
+        for(i = 0; i < tamaño; i++){
+            printf("elemento %d: ", i + 1);
+            scanf("%d",&array[i]);
+        }
+           
+    //MOSTRAR EL ARRAY.      
+    printf("Elementos:\n");
+        for(i = 1; i <= tamaño; i++){
+            printf("_%d_",array[i-1]);
+        }
+        
     return 0;
 }
